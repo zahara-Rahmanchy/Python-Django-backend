@@ -6,7 +6,7 @@ Django==4.2.5
 django-cors-headers==4.2.0
 djangorestframework==3.14.0
 importlib-metadata==6.8.0
-mysqlclient==2.2.0
+mysqlclient
 packaging==23.1
 pip-tools==7.3.0
 pyproject_hooks==1.0.0
